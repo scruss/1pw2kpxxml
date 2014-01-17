@@ -22,6 +22,10 @@ I'm *Some Random Guy On The Internet*. Check this code
 accordingly; I don't warrant it for anything save for looking
 like line noise.
 
+Dependencies
+------------
+On Linux you need the perl json-xs lib, on Debian/Ubuntu, install the package `libjson-xs-perl`.
+
 Notable limitations
 -------------------
 * All attached files in the database are lost.
